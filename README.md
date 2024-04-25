@@ -1,37 +1,41 @@
-<h2 align="left">Hi 👋! My name is Amy and I'm a Python Developer.</h2>
+# Hello there 👋
 
-###
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=4U0" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=4U0" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media.discordapp.net/attachments/1024065219317727252/1081168681721155614/logo.png"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" width="42" alt="filezilla logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" width="42" alt="lua logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" width="42" alt="numpy logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" width="42" alt="pycharm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" width="42" alt="tensorflow logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Amy 1000&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
-
-###
-
-<br clear="both">
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 
-###
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Amy"
+        self.role = "Software Engineer"
+        self.language_spoken = ["tr_TR", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+
+## 🔧 Technologies & Tools
+
+**Cloud Services:**
+
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
+![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
+
+**Programming Languages:**
+
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+
+**Tools and Services:**
+
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
